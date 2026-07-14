@@ -1,0 +1,3 @@
+{
+    "java.debug.settings.vmArgs": "-Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8"
+}
